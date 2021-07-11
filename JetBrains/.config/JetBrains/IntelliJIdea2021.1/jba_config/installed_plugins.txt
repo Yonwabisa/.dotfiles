@@ -1,0 +1,10 @@
+IdeaVIM
+com.markskelton.one-dark-theme
+io.acari.DDLCTheme
+com.jetbrains.codeWithMe
+org.jetbrains.kotlin
+com.kite.intellij
+com.almightyalpaca.intellij.plugins.discord
+com.blai30.lotus.theme
+io.flutter
+Dart

@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern=".analysis_options" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

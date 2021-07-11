@@ -1,0 +1,2 @@
+fr.gabrielcolson.prisma.prisma-intellij-plugin
+zd.zero.waifu-motivator-plugin

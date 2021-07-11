@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/yonwabisa/.config/nvim'
+let g:netrw_dirhist_1='/home/yonwabisa/.config'
+let g:netrw_dirhist_0='/home/yonwabisa'
+let g:netrw_dirhist_9='/home/yonwabisa/Downloads'
+let g:netrw_dirhist_8='/home/yonwabisa/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7142.46/bin'
+let g:netrw_dirhist_7='/home/yonwabisa/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/211.7142.46'
+let g:netrw_dirhist_6='/home/yonwabisa/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0'
+let g:netrw_dirhist_5='/home/yonwabisa/.local/share/JetBrains/Toolbox/apps/WebStorm'
+let g:netrw_dirhist_4='/home/yonwabisa/.local/share/JetBrains/Toolbox/apps'
+let g:netrw_dirhist_3='/home/yonwabisa/.local/share/JetBrains/Toolbox/apps/Toolbox'

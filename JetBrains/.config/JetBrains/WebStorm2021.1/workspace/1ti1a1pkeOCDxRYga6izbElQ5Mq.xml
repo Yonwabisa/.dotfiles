@@ -1,0 +1,266 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="gh_counsellor" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/core/redux/store.ts" />
+      <option value="$PROJECT_DIR$/src/features/account/presentation/presentation/redux/companySlice.ts" />
+      <option value="$PROJECT_DIR$/src/features/account/domain/entities/User.ts" />
+      <option value="$PROJECT_DIR$/src/features/account/domain/repositories/iCompany-repository.ts" />
+      <option value="$PROJECT_DIR$/src/features/account/domain/entities/Company.ts" />
+      <option value="$PROJECT_DIR$/src/features/account/domain/repositories/iuser-repository.ts" />
+      <option value="$PROJECT_DIR$/src/features/account/domain/repositories/icompany-repository.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13161000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24921875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24921875" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.24921875" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info id="npm" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3300926" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3300926" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40046299" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.3300926" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Dart Analysis" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="Services" order="15" show_stripe_button="false" weight="0.34544572" />
+      <window_info anchor="bottom" id="GraphQL" order="16" />
+      <window_info anchor="right" id="Database" order="0" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Structure</value>
+      <value>Services</value>
+      <value>Problems View</value>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Favorites</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="689" y="244" width="528" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624003159146">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="244" width="528" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1624003159146" />
+    <state x="741" y="264" width="428" height="478" key="FileChooserDialogImpl" timestamp="1624017564181">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="264" width="428" height="478" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1624017564181" />
+    <state width="1920" height="328" key="GridCell.Tab.0.bottom" timestamp="1623237247708">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1920" height="328" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1623237247708" />
+    <state width="1920" height="328" key="GridCell.Tab.0.center" timestamp="1623237247707">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1920" height="328" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1623237247707" />
+    <state width="1920" height="328" key="GridCell.Tab.0.left" timestamp="1623237247696">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1920" height="328" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1623237247696" />
+    <state width="1920" height="328" key="GridCell.Tab.0.right" timestamp="1623237247708">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1920" height="328" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1623237247708" />
+    <state x="482" y="121" key="SettingsEditor" timestamp="1624017609318">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="482" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1624017609318" />
+    <state x="615" y="200" width="680" height="610" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1624017413031">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="615" y="200" width="680" height="610" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1624017413031" />
+    <state x="607" y="252" width="700" height="530" key="recent.locations.popup" timestamp="1624017402654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="607" y="252" width="700" height="530" key="recent.locations.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1624017402654" />
+    <state x="623" y="233" width="672" height="160" key="search.everywhere.popup" timestamp="1624017619678">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="233" width="672" height="160" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1624017619678" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/presentation/components/login-form-component.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/presentation/redux/actions/auth-actions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/presentation/redux/reducers/login-reducer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/account/presentation/presentation/redux/companySlice.ts" />
+    <entry file="file://$PROJECT_DIR$/src/core/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/redux/store.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/presentation/pages/login-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/presentation/pages/login-success-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/data/respositories/auth-repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/data/datasources/login-api.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/account/presentation/presentation/components/index.css" />
+    <entry file="file://$PROJECT_DIR$/src/features/account/presentation/presentation/components/NavBar.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/features/account/presentation/presentation/pages/Account.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/features/account/domain/entities/User.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/domain/usecases/iauth-usecase.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/domain/entities/auth.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/domain/repositories/iauth-repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/account/domain/repositories/iuser-repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/account/domain/repositories/icompany-repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/account/domain/entities/Company.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features/auth/domain/usecases/auth-usecase.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

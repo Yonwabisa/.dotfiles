@@ -1,0 +1,12 @@
+IdeaVIM
+com.mallowigi
+com.intellij.lang.jsgraphql
+io.techtrails.intellij.prisma
+com.intellij.database
+com.jinsihou.react.snippets
+io.acari.DDLCTheme
+io.unthrottled.amii
+com.markskelton.one-dark-theme
+io.plugin.tsnode
+zd.zero.waifu-motivator-plugin
+ua.in.dej.myEmmet

@@ -1,0 +1,16 @@
+<application>
+  <component name="DokiDokiThemeConfig">
+    <option name="firstTime" value="false" />
+    <option name="lafAnimation" value="true" />
+    <option name="materialDirectories" value="true" />
+    <option name="materialFiles" value="true" />
+    <option name="materialPSIIcons" value="true" />
+    <option name="moveableStickers" value="true" />
+    <option name="notificationOpacity" value="11" />
+    <option name="seeThroughNotifications" value="true" />
+    <option name="showThemeStatusBar" value="false" />
+    <option name="themedTitleBar" value="false" />
+    <option name="userId" value="c5811124-80ce-49ac-b029-5f255b5905a8" />
+    <option name="version" value="16.0.0" />
+  </component>
+</application>

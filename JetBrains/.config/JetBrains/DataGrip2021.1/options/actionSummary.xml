@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CloseProject">
+      <i c="1" l="1622119396989" />
+    </e>
+    <e n="DatabaseView.PropertiesAction">
+      <i c="1" l="1622119235980" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="7" l="1622118826079" />
+    </e>
+    <e n="WelcomeScreen.CreateDirectoryProject">
+      <i c="2" l="1622119157651" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
+      <i c="1" l="1622119254369" />
+    </e>
+    <e n="com.intellij.database.dataSource.url.ui.ParamEditorBase$FMChooseAction">
+      <i c="1" l="1622119266773" />
+    </e>
+    <e n="com.intellij.database.ide.DataGripProjectView$1">
+      <i c="1" l="1622119224825" />
+    </e>
+    <e n="com.intellij.database.view.ui.DataSourcesSideTab$AddAction">
+      <i c="1" l="1622119238387" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="5" l="1622119218376" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1622119351935" />
+    </e>
+  </component>
+</application>

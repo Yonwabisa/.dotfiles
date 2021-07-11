@@ -1,0 +1,15 @@
+{
+  "user": "fc74d435-4105-4961-92a8-ea3c6bb6e49a",
+  "versionInstallDates": {
+    "0.10.2": {
+      "seconds": 1623056367,
+      "nanos": 16048000
+    },
+    "0.10.6": {
+      "seconds": 1623841094,
+      "nanos": 959964000
+    }
+  },
+  "seenPromotions": {},
+  "allowedToPromote": true
+}
